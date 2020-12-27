@@ -12,7 +12,7 @@
 
 </div>
 
-<h2>this is my toyProject.</h2>
+<h2>this is my toyProject for learning.</h2>
 
 > QQ音乐API koa2 版本, 通过Web网页版请求QQ音乐接口数据, 有问题请提 [issue](https://github.com/Rain120/qq-music-api/issues)
 
